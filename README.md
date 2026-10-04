@@ -24,3 +24,45 @@ SchemeFinder is a simple web app that helps entrepreneurs in Karnataka find rele
 ## Project Goal
 The goal of SchemeFinder is to provide a reliable and document-grounded tool that helps Karnataka entrepreneurs quickly identify relevant government schemes without misinformation or hallucinated details.
 
+
+
+Scheme Finder AI Chatbot:
+A Python-based AI chatbot project to help users interact and find relevant schemes using natural language.
+
+Project Overview:
+This repository contains an AI chatbot built using Python that can:
+
+Respond to user queries about schemes
+Use AI (OpenAI or similar) to generate intelligent answers
+Store any indexed data in local chromadb directory
+Folder Structure:
+Scheme-_Finder/
+├── Agentic AI Chatbot/
+│   ├── chroma_db/
+│   ├── images/
+│   ├── app.py
+│   ├── logo.jpeg
+│   └── requirements.txt
+└── README.md
+Screenshot:
+Home Screen
+
+
+Upload Screen
+
+
+n8n flow
+
+
+Requirements
+Before running the app, install the needed dependencies:
+
+pip install -r Agentic\ AI\ Chatbot/requirements.txt
+
+
+
+
+
+---
+
+
